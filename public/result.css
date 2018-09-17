@@ -1,0 +1,24 @@
+body{
+	background: url("http://www.pptbackgrounds.org/uploads/film-movies-movie-making-minimalism-creative-backgrounds-wallpapers.jpg");
+	align-content: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1{
+text-align: center;
+	font-family: 'Arapey', serif;
+  font-size: 72px;
+  background: -webkit-linear-gradient(#ee42f4, #4615a3);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+	font-size: 100px;
+}
+li{
+	text-align: center;
+	font-family: 'Kaushan Script', cursive;
+	color: white;
+	font-size: 20px;
+}
+.container{
+	margin: 6% 20% 0 20%;
+}
